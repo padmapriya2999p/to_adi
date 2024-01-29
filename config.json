@@ -7,7 +7,7 @@
         "teradata_sql" : "",
         "postgres_database" : "demo",
         "postgres_user" : "postgres",
-        "postgres_password" : "bubululu",
+        "postgres_password" : "",
         "postgres_host" : "127.0.0.1",
         "postgres_port" : "5432"
 }
