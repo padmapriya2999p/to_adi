@@ -1,0 +1,13 @@
+{
+        "teradata_driver" : "",
+        "teradata_host_name" : "PTDBIA",
+        "teradata_user" : "",
+        "teradata_password" : "",
+        "teradata_authentication" : "LDAP",
+        "teradata_sql" : "",
+        "postgres_database" : "demo",
+        "postgres_user" : "postgres",
+        "postgres_password" : "bubululu",
+        "postgres_host" : "127.0.0.1",
+        "postgres_port" : "5432"
+}
